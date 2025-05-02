@@ -40,14 +40,11 @@ As an end-user, create the following ticket
 </p>
 <p>
 As a Help Desk Agent (john), observe the ticket’s properties:
-  
-	- Priority
- 
-	- Department
- 
-	- SLA
- 
-	- Assigned To
+
+- Priority
+- Department
+- SLA
+- Assigned to
 
 </p>
 <br />
